@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(lightpink, lightblue);
+}
+
+header {
+    padding: 40px 0px 40px 25px;
+    text-align: center; 
+}
+
+.link-header {
+    font-size: 21px;
+    background-color: lightgreen;
+    text-decoration: none;
+    border-radius: 10px;
+    float: left;
+}
+
+.link-nav {
+    justify-content: space-around;
+    margin-right: 35px;
+    font-size: 28px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+footer {
+justify-content: space-between;
+display: flex;
+margin-top: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
